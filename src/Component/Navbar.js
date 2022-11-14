@@ -25,7 +25,8 @@ export default function Navbar() {
             
             <Header position="static">
                 <Toolbar >
-                    <Tab to="/" style={({isActive})=> {return{color: isActive ?"green":"white"}}} >
+                {/* style={({isActive})=> {return{color: isActive ?"green":"white"}}} */}
+                    <Tab to="/"  >
                         HOME
                     </Tab>
                     <Tab to="/about"  style={({isActive})=> {return{color: isActive ?"green":"white"}}} >
