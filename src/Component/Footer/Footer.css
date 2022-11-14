@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=PT+Sans:ital@1&display=swap');
+  h1{
+    font-family:'Lato', sans-serif;
+  }
+  h2{
+    font-family:'Lato', sans-serif;
+  }
+  h3{
+    font-family:'Lato', sans-serif;
+  }
+  h4{
+    font-family:'Lato', sans-serif;
+  }
+  h5{
+    font-family:'Lato', sans-serif;
+  }
+  h6{
+    font-family:'Lato', sans-serif;
+  }
+  p{
+    font-family:'Lato', sans-serif;
+  }
+.footer{
+    background-color: #333df5;
+}

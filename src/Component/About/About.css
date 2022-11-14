@@ -1,0 +1,43 @@
+.box{
+
+    background-color:rgb(240, 234, 234);
+    /* opacity: .5; */
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.about li{
+  list-style: none;
+
+
+}
+
+
+.about{
+    width: 600px;
+    height: 300px;
+    background-color: rgb(212, 205, 205);
+    opacity: .8;
+
+    /* margin-left: 35%; */
+}
+
+.social a{
+    
+    
+    align-items:center;
+    justify-content:center;
+    
+}
+
+.social{
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.social a :hover{
+    height: 60px;
+}

@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=PT+Sans:ital@1&display=swap');
+
+.heading{
+ margin-top: 2rem;
+ margin-bottom: 2rem;
+}
+
+ 
+.grid-container {
+    /* display: grid; */
+    /* grid-template-columns: auto auto auto auto; */
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    background-color: rgb(240, 234, 234);
+    /* padding: 10px; */
+  }
+
+  
+  h1{
+    font-family:'Lato', sans-serif;
+  }
+  h2{
+    font-family:'Lato', sans-serif;
+  }
+  h3{
+    font-family:'Lato', sans-serif;
+  }
+  h4{
+    font-family:'Lato', sans-serif;
+  }
+  h5{
+    font-family:'Lato', sans-serif;
+  }
+  h6{
+    font-family:'Lato', sans-serif;
+  }
+  p{
+    font-family:'Lato', sans-serif;
+  }
